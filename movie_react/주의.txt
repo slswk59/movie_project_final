@@ -1,0 +1,5 @@
+쿼리문 name, email, password nullable 설정,
+
+스프링부트 - fileupload 경로 설정
+
+db 이름 설정(파이썬, 어플리케이션)
